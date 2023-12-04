@@ -1,0 +1,30 @@
+
+.calci{
+    background-color: rgb(82, 92, 89);
+    height: 400px;
+    width: 600px;   
+    padding: 30px;
+    margin-left: 390px;
+    margin-top: 60px;
+    border-radius: 1em;
+    border:solid black;
+    text-align: center;
+    
+    }
+    input[type=button] {
+        width: 100%;
+        color: aliceblue;
+        background-color: rgb(59, 57, 57);
+        border: solid black 2.5px;
+        
+  }
+        
+  
+    input[type=text] {
+        width: 97%;
+        color: black;
+        background-color: gray;
+        border: none;
+        height: 20px;
+
+    }
